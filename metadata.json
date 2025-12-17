@@ -1,0 +1,7 @@
+{
+  "name": "MediaMaster",
+  "description": "The Ultimate Client-Side Media Suite for Video, Audio, PDF, and Conversion tasks using WebAssembly.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
